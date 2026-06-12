@@ -12,7 +12,7 @@ using namespace std;
 #define eb emplace_back
 
 void solve() {
-    
+  
 }
 
 int main() {
